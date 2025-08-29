@@ -1,12 +1,12 @@
-**[前往索引](./index.md)**
+**[前往索引](./index.md)**  
 
-[大纲](./jlpt_des.md)
-[课表](./pdf/sche.pdf)
-[PDF大全](./pdf/index.md)
-[2025_8_27报名/提前须知](./2025_8_27.md)
-[模块化笔记](./)
-[IOS备忘录原版](./ios.md)
-[暂存](./temp_section.md)
+[N2笔记大纲](./jlpt_des.md)  
+[课表](./pdf/sche.pdf)  
+[PDF大全](./pdf/index.md)  
+[2025_8_27报名/提前须知](./2025_8_27.md)  
+[模块化笔记](./)  
+[IOS备忘录原版](./ios.md)  
+[暂存](./temp_section.md)  
 
 # 日语学习笔记
 
