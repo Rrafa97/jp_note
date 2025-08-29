@@ -1,5 +1,5 @@
 **[前往索引](./index.md)**  
-[スケジュール🗓️ノート](./nodes/スタッフ募集のお知らせ.md)
+[スケジュール🗓️ノート](./nodes/スタッフ募集のお知らせ.md)  
 [N2笔记大纲](./jlpt_des.md)  
 [课表](./pdf/sche.pdf)  
 [PDF大全](./pdf/index.md)  
